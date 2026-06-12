@@ -633,6 +633,11 @@
 			"url": "./lib/iptv_test.m3u"
 		},
 		{
+			"name": "平台直播自用",
+			"type": 0,
+			"url": "./lib/cctv.m3u"
+		},
+		{
 			"name": "歌手直播",
 			"type": 0,
 			"url": "https://mgtv.ottiptv.cc/mglist.m3u",
