@@ -472,6 +472,14 @@
     "timeout": 10
 },
 
+{
+    "name": "🔞國產直播🔞",
+    "type": 0,
+    "url": "https://raw.githubusercontent.com/zhaojifang/zhaojifang123/refs/heads/master/%E5%9B%BD%E4%BA%A7%E7%9B%B4%E6%92%AD%E6%BA%90",
+    "timeout": 10
+},
+
+
 
     {
       "name": "🐅飛揚",
@@ -1301,7 +1309,11 @@
       "url": "https://raw.githubusercontent.com/bizopps/tv/refs/heads/main/a.m3u",
       "name": "Test 4號線路🔞"
     },
-    
+    {
+      "url": "https://raw.githubusercontent.com/a2256569/tv/refs/heads/main/playlist.m3u8",
+      "name": "Test 5號線路🔞"
+    },
+
     {
       "url": "https://iptv.org.ua/iptv/avtox.m3u",
       "name": "1號線路🔞"
